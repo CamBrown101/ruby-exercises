@@ -10,4 +10,3 @@ puts "----------"
 @store1.name = "Boundry"
 puts @store1.name
 puts @store2.name
-# Your code goes here ...
